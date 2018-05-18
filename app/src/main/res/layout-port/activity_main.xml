@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.regiane.meuapp.meuappcerto.MainActivity"
+    style="@style/fundo">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/main_edTexto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Name" />
+
+        <Button
+            android:id="@+id/main_btn0k"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="setar texto" />
+        <Button
+            android:id="@+id/main_btn0k02"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="limpar Texto"/>
+
+        <Button
+            android:id="@+id/main_btnokLimpar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Realizar Ligação"
+            android:onClick="ligar"/>
+
+       <TextView
+
+        android:id="@+id/main_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+           style="@style/styleTextView"/>
+
+
+
+
+
+
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
+

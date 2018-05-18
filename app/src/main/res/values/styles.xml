@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="styleTextView">
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle"> bold</item>
+        <item name="android:textColor">#0000ff</item>
+    </style>
+
+    <style name="fundo">
+        <item name="android:background">#fcfe</item>
+    </style>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">meu app certo</string>
+    <string name="heloo">hello</string>
+    <string name="btn_unidade01">UNIDADE1</string>
+    <string name="btn_unidade2">UNIDADE 2 A</string>
+    <string name="btn_unidade2a">UNIDADE 2 A</string>
+    <string name="btn_novo">Novo</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="tv_nome">Nome</string>
+    <string name="NovoMain_button2b">Abrir unidade 2b</string>
+    <string name="estabelecimento_btnSalvar">Salvar</string>
+</resources>
