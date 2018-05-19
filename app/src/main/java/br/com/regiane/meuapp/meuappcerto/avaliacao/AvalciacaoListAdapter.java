@@ -45,7 +45,7 @@ public class AvalciacaoListAdapter extends ArrayAdapter<Avaliacao> {
         Avaliacao avaliacao = avaliacaos.get(position);
         rbEstrelas.setRating(avaliacao.getEstrelas());
         tvComentario.setText(avaliacao.getComentarios());
-        
+
 
         return item;
     }

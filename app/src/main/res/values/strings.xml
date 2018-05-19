@@ -8,5 +8,5 @@
     <string name="btn_cancelar">Cancelar</string>
     <string name="tv_nome">Nome</string>
     <string name="NovoMain_button2b">Abrir unidade 2b</string>
-    <string name="estabelecimento_btnSalvar">Salvar</string>
+    <string name="estabelecimento_btnSalvar">Avaliação</string>
 </resources>

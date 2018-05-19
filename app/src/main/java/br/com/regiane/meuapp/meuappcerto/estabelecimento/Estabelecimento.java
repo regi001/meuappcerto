@@ -13,7 +13,7 @@ public class Estabelecimento {
     private String latitude;
     private String longitude;
 
-    final  static String ID ="_id";
+  public   final  static String ID ="_id";
     final  static String NOME ="nome";
     final  static String ENDERECO ="endereco";
     final  static String TELEFONE ="telefone";
